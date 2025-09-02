@@ -19,7 +19,7 @@ This is a simple **Rock, Paper, Scissors** game written in Python where a player
 ---
 
 ## Code
-   import random
+import random
 def get_choices():
     player_choices = input("enter the player choices(rock,paper,scissor : )")
     options = ["rock","paper","scissor"]
@@ -53,7 +53,6 @@ def check_win(player,computer):
 choices = get_choices()
 result = check_win(choices["player"],choices["computer"])
 print(result)
-
 ## ▶️ How to Run
 
 1. Clone or download this repository  
