@@ -22,5 +22,5 @@ This is a simple **Rock, Paper, Scissors** game written in Python where a player
 
 1. Clone or download this repository  
    ```bash
-   git clone https://github.com/<your-username>/rock-paper-scissors.git
-   cd rock-paper-scissors
+   git clone https://github.com/<your-username>/rock-paper-scissor.git
+   cd rock-paper-scissor
